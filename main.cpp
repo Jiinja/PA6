@@ -12,6 +12,9 @@
 // I then realized that in the sample text, '.' is the character for FULLSTOP. this messes up the balance of my tree, so I am just going to continue to use '~'
 // thank you for understanding. I made the tree by hand (hardest part of this assignment tbh) and I don't want to redo the order in the file.
 //
+// I made a git repo and had a version history and then git said my version was out of date. I synced it and it put a bunch of random characters all over my assignment
+// So, i redid the repo and it doesn't have any version history anymore. if you could still give me that extra point bc VS is trash, I would appreciate it but idc its only 1 point
+//
 
 int main()
 {
